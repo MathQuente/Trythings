@@ -1,0 +1,12 @@
+.containerMain{
+  display: flex;
+  display: -webkit-flex;
+  height: 100vh;
+  flex-direction: column;
+}
+
+.outlet{
+  flex: 1;
+}
+
+
